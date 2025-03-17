@@ -1,5 +1,5 @@
 # Custom Characters LCD
-~~[Streamlit](https://github.com/streamlit/streamlit)~~ app to generate custom characters for LCD 16x2. This fork works on [Flask](https://github.com/pallets/flask)
+[Flask](https://github.com/pallets/flask) app to generate custom characters for LCD 16x2
 
 Original generator is for LCD16x2 presented on the [Github LCD](https://github.com/the-raspberry-pi-guy/lcd?tab=readme-ov-file#custom-characters)
 
